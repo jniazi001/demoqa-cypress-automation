@@ -9,8 +9,8 @@ On the Practice Form page, the Submit button is intermittently blocked by a floa
 
 ### Environment
 - Application: https://demoqa.com/automation-practice-form
-- Browser: Chrome (latest)
-- OS: Windows 10/11
+- Browser: Chrome 
+- OS: Windows 10
 - Automation Tool: Cypress
 
 ---

@@ -1,0 +1,5 @@
+{
+  "name":"demoqa-cypress",
+  "scripts":{"test":"cypress run","open":"cypress open"},
+  "devDependencies":{"cypress":"^13.0.0"}
+}

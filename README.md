@@ -1,2 +1,6 @@
-# demoqa-cypress-automation
-Demo Cypress Automation workflow
+# DemoQA Cypress Project
+
+## How to run
+npm install
+npm test
+npm run open

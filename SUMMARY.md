@@ -1,7 +1,7 @@
  1-Page Summary Report
 
  Project Overview
-This project is a Cypress-based UI automation framework built for the DemoQA website (https://demoqa.com). The goal was to demonstrate a scalable, maintainable, and realistic automation structure covering key user interactions.
+This project is a Cypress-based UI automation framework built for the DemoQA website https://demoqa.com. The goal was to demonstrate a scalable, maintainable, and realistic autmation structure covering key user interactions.
 
 
 
@@ -57,7 +57,7 @@ A medium-severity defect was found where an advertisement overlay blocks the Sub
 
 
 Execution Summary
-- Total Tests: 11 (sample suite)
+- Total Tests: 11 
 - Passed: 11
 - Failed: 0
 

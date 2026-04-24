@@ -1,0 +1,1 @@
+class DialogPage { visit(){cy.visit('/modal-dialogs')} openSmall(){cy.get('#showSmallModal').click()} closeSmall(){cy.get('#closeSmallModal').click()} } export default new DialogPage()

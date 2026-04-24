@@ -1,0 +1,1 @@
+class SelectPage { visit(){cy.visit('/select-menu')} chooseColor(){cy.get('#oldSelectMenu').select('Purple')} } export default new SelectPage()

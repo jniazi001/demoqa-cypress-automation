@@ -1,8 +1,8 @@
 # Defect Report
 
-## Defect 1: Submit button blocked by advertisement overlay on Practice Form page
+ Defect 1: Submit button blocked by advertisement overlay on Practice Form page
 
-### Summary
+ Summary
 On the Practice Form page, the Submit button is intermittently blocked by a floating advertisement element, preventing normal user interaction.
 
 ---
